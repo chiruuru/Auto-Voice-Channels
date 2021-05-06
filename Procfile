@@ -1,1 +1,1 @@
-discord: python discordbot.py
+discord: python auto-voice-channels.py
